@@ -1,1 +1,1 @@
-# landing-page-chimali-backend
+# chimali-backend
