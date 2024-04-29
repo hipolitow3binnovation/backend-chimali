@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "chimali-421306",
+  "private_key_id": "4e19c5dd87c341dc0e457940fd12720bdc9dc4c5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDCJ9TSi1K+TELv\nna1wHoQErykbP+trIHeQEqeO9tf+1lbf8OaIMTLJicATRncHD3tV4oRlFl28aWLb\nRD9YoH6eiC03wFzQvz+VdVMNoaLQbMVBOv0s0xwSgx19F60HuAVHtnDX7SdS8JtQ\nM3+QQFBeHeCun6zrcYDXhjAxlw3hT7LP2TJeoCsQ3p9W444ni5LwuG7Rz0JXTcqR\nToHK4i7h7QG7tuL0LV14nd/BAgduQ96yQNlQAJHZGW0kp1Y4AoTPiZYTUCPOzigC\ncWL/4v2YWTrDfWKbw20QLqhg8CWhPQxB8JolLTNZGl8+lZWTDnXYZMFgLPu51vzr\n5ZdeLXgBAgMBAAECggEAAjdKKo0EiL9+FBYMoLb4csU9Bt6X5UUdmDteRjdzB6mS\nnEO3nd5R4hL8ajvnp+D5W2WWdUDoGPpq8m24+135k/2h5nz/kjJcm2wXYpRxs0dK\niRAPS6+tJljwwTi/9NKY3NSsPQqr5Dpyy1uLHS5evHRC2DtiUd2dxtf1PNuogOXO\n4EY2bo2AubarDpqqw4GkZhXLIQgHeRTMZywi0LxLQyZU9rJMlQZnUxPMSqYd/wdD\nslEb3TTVCfrA401XZBEUvXVVd7faz5V8eVwRC2nK/zJVIfOrdO3wbvGMnaNRTJ0w\nLBTYhVxIEe/GUnboUi+PTBboNNyh3JcQoE2JvzPzcQKBgQDqHRyQy296rp+3THfK\nHtudTbX01rvwMHADTH09PjVlWcm1oiBHkFwgdrV1/svdrNbrlvpUJa0tNOoICHJz\nerK6rU/yRvzYpL+dvQKebqwfCWA1d4zXJIS+23h0/tK6OBljfmOvY2oysW3Y0bXZ\nMuPZKiZE4AIwf7wD+OC1A2fW8wKBgQDUTm2sQ8+8+QqfDJGhEMMoYerJyLYOsQpy\nZtuKEcVuABAXugMA7RAXibzSVTzJiN2kiIS/PUDT74zfnX9CFiJWRRvjx8QNwIsZ\nCmGfyF8dMW1FiqNmTFQeKRTPucCxQJZigtwcp3n08ab16mZP2gv8oSs4IWuSribg\nhiDua/zaOwKBgD4HQI5MmFjU85RJOmPfESj4cgFQ87KL4uG83mHfnZ4g0ATD0/Gi\nGgav7Rw6SiGNrdP1yJWK9ftITcmbE1ftZnV3ffsfO9bar7pHXe5EPG5suYTxC+vk\nzRcUZzH4YjTcsD1gO2E44eZUhFoyFhBaH2xmcoVFJM9cyJ/0zPSo1lZpAoGBAIZZ\nGw3n2426Cv6a9Yz3Doh/bhRC7vJdFj9O156HoGf7ojNhgoUTfxtmDhcL2WuvMJLt\n0RMzr9JtxLe88srfNttg4EVEJMyPC3bNGvoB0i6nGH7pPH1/z7tGQ+UvpsCEHqY4\nKRH46TQXt4/mxNfDI9K6Kp9ahrhLfE6Ykj5OF7QBAoGAMm2ZXJgsHT+ORNeO9FB0\nkj9WxAeFwbtTfthYKj8DEMT4wGKfOl0aT/Pa2F4NEKpFSHKKVvdEpvFs3OYerpJv\nHQpM0+4F6ToXzazu4WNk3YuhnHtP52W8pR3yz9/FQRxwXlnPsGnJLozB5GDJ5DJ+\nr1V76liWbSfo2R2gCXD4gk0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chimaliform@chimali-421306.iam.gserviceaccount.com",
+  "client_id": "107744381266734344168",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chimaliform%40chimali-421306.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
