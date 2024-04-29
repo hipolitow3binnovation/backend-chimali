@@ -1,1 +1,1 @@
-# chimali-backend
+# backend-chimali
